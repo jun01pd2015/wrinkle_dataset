@@ -1,2 +1,2 @@
 # wrinkle_dataset
-Wrinkle label dataset from FFHQ
+1000 wrinkle label dataset from FFHQ
