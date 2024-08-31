@@ -12,3 +12,6 @@ Use bitwise_and operator on corresponding facial images from FFHQ
 wrinkle labels of 1000 images
 
 ## update (to be continued)
+2024-08-31
+zip files have been locked with password.
+Feel free to contact lilemoest48@korea.ac.kr or lilemoest48@hotmail.com for the password :)
