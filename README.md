@@ -1,7 +1,7 @@
 # Enhanced wrinkle dataset
 
 - Descriptions:
-Welcome to the official repository for the Enhanced Wrinkle Dataset. This dataset was utilized in the research paper "A Facial Wrinkle Segmentation Method Based on Unet++ Model" by Junsuk Lee. The dataset is now publicly available to encourage further research, development, and innovation in the field of facial skin analysis.
+Welcome to the official repository for the Enhanced Wrinkle Dataset. This dataset was utilized in the research paper "A Facial Wrinkle Segmentation Method Based on Unet++ Model" and "Automated Facial Wrinkle Segmentation Scheme Using UNet++" by Junsuk Lee. The dataset is now publicly available to encourage further research, development, and innovation in the field of facial skin analysis.
 
 ## Contents:
 - skin_masks.zip
